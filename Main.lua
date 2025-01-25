@@ -14,7 +14,7 @@ local Window = Rayfield:CreateWindow({
       Invite = "QfRrx7qf53",
       RememberJoins = true
    },
-   KeySystem = true,
+   KeySystem = false,
    KeySettings = {
       Title = "Key System",
       Subtitle = "Join our discord server to get the key!",
